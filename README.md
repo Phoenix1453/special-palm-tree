@@ -1,1 +1,3 @@
 # special-palm-tree
+
+İlk python kodum o yüzden bazı hatalarım olabilir. Gelecekte daha iyisini daha az satırla yapmak üzere...
