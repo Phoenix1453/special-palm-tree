@@ -16,3 +16,6 @@ elif islem == "+":
   
 elif islem == "-":
   print(a-b)
+
+else:
+    print("Please choose true action.")
